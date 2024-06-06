@@ -8,3 +8,5 @@ const fun = function(){
 
 
 console.table([name, age, fun])
+
+console.log("write more")
